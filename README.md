@@ -38,6 +38,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=y0ushi&show_icons=true&locale=en&layout=compact" alt="y0ushi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y0ushi&show_icons=true&locale=en" alt="y0ushi" /></p>
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.89a7028cb059866bd6102282e066ae10?rik=iz8uTgUSNm81UQ&pid=ImgRaw&r=0">
+<img align="right" alt="coding" width="300" src="https://th.bing.com/th/id/R.89a7028cb059866bd6102282e066ae10?rik=iz8uTgUSNm81UQ&pid=ImgRaw&r=0">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y0ushi&" alt="y0ushi" /></p>
