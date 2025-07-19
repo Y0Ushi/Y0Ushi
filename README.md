@@ -19,13 +19,13 @@
 
 - 📫 How to reach me **nobixchan@gmail.com**
 
-- 📄 i started my programming journey at **2018(C#) , 2022(python)**
+- 📄 i started my programming journey at **(python 2022)**
 
-- ⚡ I want to be a **Data scientist**
+- ⚡ I want to be a **Machine Learning Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Nobix_chan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Nobix_chan" height="30" width="40" /></a>
+<a  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Nobix_chan" height="30" width="40" /></a>
 <a href="https://instagram.com/nobix_chan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nobix_chan" height="30" width="40" /></a>
 </p>
 
